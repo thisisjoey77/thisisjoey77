@@ -24,6 +24,8 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </p>
 
+![Quantum Computing](https://img.shields.io/badge/Quantum_Computing-%238A2BE2?style=for-the-badge&logo=quantconnect&logoColor=white)
+
 
 <!--
 **thisisjoey77/thisisjoey77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
