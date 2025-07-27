@@ -2,7 +2,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=joykim26)](https://solved.ac/joykim26)
 
-## Skills
+## Proficiency
 
 ### Informatics
 
