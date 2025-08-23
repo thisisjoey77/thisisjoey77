@@ -1,6 +1,9 @@
 ## Joy Kim | KIS Jeju '26
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=joykim26)](https://solved.ac/joykim26/)
+<a target="_blank" rel="noreferrer noopener" href="https://solved.ac/profile/joykim26">
+    <img height="180em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=joykim26">
+    <img height="180em" src="http://mazandi.herokuapp.com/api?handle=joykim26&theme=dark">
+  </a>
 
 ## Proficiency
 
