@@ -5,8 +5,6 @@
     <img height="180em" src="http://mazandi.herokuapp.com/api?handle=joykim26&theme=dark">
   </a>
 
-## Proficiency
-
 ### Informatics
 
 <p>
