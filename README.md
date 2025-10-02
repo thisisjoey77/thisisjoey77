@@ -5,14 +5,14 @@
     <img height="180em" src="http://mazandi.herokuapp.com/api?handle=joykim26&theme=dark">
   </a>
 
-### Informatics
+### Algorithm
 
 <p>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-### Development
+### Dev
 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
