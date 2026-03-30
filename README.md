@@ -1,4 +1,4 @@
-## Joy Kim | KIS Jeju '26
+## Joy Kim | Georgia Tech '30
 
 <a target="_blank" rel="noreferrer noopener" href="https://solved.ac/profile/joykim26">
     <img height="180em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=joykim26">
