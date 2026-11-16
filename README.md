@@ -4,6 +4,42 @@
     <img height="180em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=joykim26">
   </a>
 
+## 🚀 My Journey
+
+<table>
+  <tr>
+    <td align="center" width="65">🎓<br>│</td>
+    <td>
+      <strong>May 2026</strong><br>
+      Graduated from <strong>Korea International School Jeju</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">🏛️<br>│</td>
+    <td>
+      <strong>August 2026</strong><br>
+      Began studying <strong>Computer Science at Georgia Tech</strong><br>
+      <sub>B.S. Computer Science · Class of 2030</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">🏆<br>│</td>
+    <td>
+      <strong>November 15, 2026</strong><br>
+      <strong>EmoryHacks 2026 — Double Award Winner</strong><br>
+      <sub>🏅 Entertainment Track · 🏅 Coder 4 Good</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">💻</td>
+    <td>
+      <strong>November 15, 2026</strong><br>
+      Joined <strong>HexLabs</strong><br>
+      <sub>Member · Georgia Tech</sub>
+    </td>
+  </tr>
+</table>
+
 ### Algorithm
 
 <p>
